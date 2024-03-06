@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Thabish-0604
 - 👀 I’m interested in ai&machine learning 
 - 🌱 I’m currently learning ai and ds
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 6383754344 
 
 <!---
