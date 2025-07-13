@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Thabish-0604
-- 👀 I’m interested in ai&machine learning 
-- 🌱 I’m currently learning ai and ds
-- 📫 How to reach me 6383754344 
+- 👋 Hi, I’m Mohamed Thabish M
+- 👀 I’m interested in Developing
+- 🌱 I’m graduated in B.tech(Artificial Intelligence &Data Science) 2025 batch
+- 📫 How to reach me thabishmohammed93@gmail.com
 
 <!---
 Thabish-0604/Thabish-0604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
